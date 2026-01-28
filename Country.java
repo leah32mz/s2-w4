@@ -1,7 +1,7 @@
 /**
  * Represents a country with life expectancy data
  * Used in Week 4: Reading Data with Scanner and ArrayList
- */
+ */ 
 public class Country {
     private String name;
     private String region;
